@@ -1,2 +1,2 @@
-# Competitive Programming
-These are all my solutions in CP using Java and C++
+# Coding Problems
+These are all my solutions by using C++ and Java
