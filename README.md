@@ -5,7 +5,7 @@ Also, this repo will be updated with new solutions and resources from time to ti
 
 ## Learning Resources
 
-The learning resources are divided into 4 categories: [Books](#Books), [Training Sites](#Training-Sites), [Other Resources](#Other-Resources).
+The learning resources are divided into 3 categories: [Books](#Books), [Training Sites](#Training-Sites), [Other Resources](#Other-Resources).
 
 ### Books
 
