@@ -5,55 +5,7 @@ Also, this repo will be updated with new solutions and resources from time to ti
 
 ## Learning Resources
 
-The learning resources are divided into 4 categories: [Courses](#Courses), [Books](#Books), [Training Sites](#Training-Sites), [Other Resources](#Other-Resources).
-
-
-### Courses
-
-Collection of free courses from one of the best CS universities.
-
-1. Stanford University
-    - [Algorithms Specialization (Coursera)](https://www.coursera.org/specializations/algorithms)
-        * [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer)
-        * [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures)
-        * [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy)
-        * [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete)
-    - [Introduction to Programming Contests - CS 97SI](http://web.stanford.edu/class/cs97si/)
-
-2.  Princeton University
-    - [Algorithms Part 1 (Coursera)](https://www.coursera.org/learn/algorithms-part1)
-    - [Algorithms Part 2 (Coursera)](https://www.coursera.org/learn/algorithms-part2)
-    - [Analysis of Algorithms (Coursera)](https://www.coursera.org/learn/analysis-of-algorithms)
-
-3. UC San Diego
-    - [Data Structures and Algorithms Specialization (Coursera)](https://www.coursera.org/specializations/data-structures-algorithms)
-        * [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
-        * [Data Structures](https://www.coursera.org/learn/data-structures)
-        * [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs)
-        * [Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings)
-        * [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity)
-    - [Data Structures and Performance (Coursera)](https://www.coursera.org/learn/data-structures-optimizing-performance)
-    - [edX](https://www.edx.org/school/uc-san-diegox)
-        * [Data Structures Fundamentals](https://www.edx.org/course/data-structures-fundamentals)
-        * [Algorithmic Design and Techniques](https://www.edx.org/course/algorithmic-design-and-techniques)
-        * [Graph Algorithms](https://www.edx.org/course/graph-algorithms)
-        * [Data Structures: An Active Learning Approach](https://www.edx.org/course/data-structures-an-active-learning-approach)
-
-4. MIT University
-    - [Introduction to algorithms 2005](https://www.youtube.com/playlist?list=PL8B24C31197EC371C) - *[Official MIT page with resources](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)*. Note: this course is the old 6.046J course (the new name is ***Design and analysis of algorithms***, you can find it below).
-    - [Introduction to algorithms 2011 - 6.006](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) - *[Official MIT page with resources](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)*
-    - [Design and analysis of algorithms - 6.046J](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp) - *[Official MIT page with resources](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)*
-    - [Advanced Data Structures - 6.851](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf) - *[Official MIT page with resources](http://courses.csail.mit.edu/6.851/spring14/lectures/)*
-    - [Advanced Algorithms 2016 - 6.854](https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c) - *[Official MIT page with resources](http://people.csail.mit.edu/moitra/854.html)*
-    - [Programming for the Puzzled 2018 - 6.S095](https://www.youtube.com/playlist?list=PLUl4u3cNGP62QumaaZtCCjkID-NgqrleA) - *[Official MIT page with resources](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s095-programming-for-the-puzzled-january-iap-2018/)*
-
-5. Harvard University
-    - [Advanced algorithms - CS224](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
-
-6. UC Berkeley
-    - [Data Structures - CS61B](https://inst.eecs.berkeley.edu/~cs61b/archives.html)
-    - [Efficient Algorithms and Intractable Problems - CS170](https://cs170.org/) - *[YouTube videos](https://www.youtube.com/playlist?list=PLkFD6_40KJIx8lWWbE-Uk069aZ1R-W-VU)*
-
+The learning resources are divided into 4 categories: [Books](#Books), [Training Sites](#Training-Sites), [Other Resources](#Other-Resources).
 
 ### Books
 
