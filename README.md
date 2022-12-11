@@ -92,3 +92,6 @@ If the problems from [LeetCode](https://leetcode.com/) are not enough and you ne
     - [Data Structures by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
     - [Data Structures by HackerRank](https://www.youtube.com/playlist?list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX)
     - [Algorithms by HackerRank](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL)
+
+### License
+[MIT License](LICENSE)
