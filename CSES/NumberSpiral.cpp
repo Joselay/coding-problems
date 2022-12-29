@@ -23,7 +23,8 @@ int main () {
 		else{
 			if(x==z)
 				ans = z2+y;
-			ans = z2+2*z-x;
+			else
+				ans = z2+2*z-x;
 		}
 		cout<<ans<<"\n";
 	}
